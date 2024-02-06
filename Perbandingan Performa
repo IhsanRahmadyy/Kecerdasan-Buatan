@@ -1,0 +1,10 @@
+#Perbandingan Perform
+A. Algoritma Logistic Regression
+  1. memiliki nilai hasil prediksi 0,77272 (Score Pada kaggle)
+  2. Best cross-validation score: 0.82
+  3. Proses data lebih cepat.
+  
+B. Algoritma Random Forest
+  1. memiliki nilai hasil prediksi 0,7799 (Score Pada kaggle)
+  2. Best cross-validation score: 0.84
+  3. Proses Pada data lebih lama tapi hasil lebih Akurat
